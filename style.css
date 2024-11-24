@@ -145,9 +145,9 @@ html {
   color: crimson;
 }
 .home .home-content a {
-  display: inline-block;
-  background: crimson;
-  color: #fff;
+  display: flex;
+  background: url(img/gif1.gif) no-repeat center;
+  color: ;
   font-size: 25px;
   padding: 8px 20px;
   margin-top: 20px;
@@ -160,8 +160,8 @@ html {
 }
 
 .home .home-content a:hover {
-  color: white;
-  background: #000;
+  color: black;
+  background: #fff;
 }
 
 /* all similar content styling code */
