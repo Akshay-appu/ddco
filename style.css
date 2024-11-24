@@ -142,12 +142,12 @@ html {
 }
 .home .home-content .text-3 span {
   font-weight: 500;
-  color: crimson;
+  color: white;
 }
 .home .home-content a {
-  display: flex;
-  background: url(img/gif1.gif) no-repeat center;
-  color: ;
+  display: inline-block;
+  background: crimson;
+  color: #fff;
   font-size: 25px;
   padding: 8px 20px;
   margin-top: 20px;
@@ -220,7 +220,7 @@ section .title::after {
 }
 .skills .title::before,
 .contact .title::before {
-  background: #fff;
+  background: url(img/bg_video.gif) no-repeat center;
 }
 
 /* about section styling */
