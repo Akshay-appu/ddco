@@ -220,7 +220,7 @@ section .title::after {
 }
 .skills .title::before,
 .contact .title::before {
-  background: url(img/bg_video.gif) no-repeat center;
+  background: url(img/background gif.gif) no-repeat center;
 }
 
 /* about section styling */
@@ -321,7 +321,7 @@ section .title::after {
 /* skills section styling */
 .skills .title::after {
   background: #111;
-  content: "Psidium guajava";
+  content: "⚡⚡⚡⚡⚡";
 }
 .skills .skills-content .column {
   width: calc(50% - 30px);
