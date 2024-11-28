@@ -38,7 +38,7 @@ $(document).ready(function () {
   // Scroll up Button script end
 
   // animation Script for display
-  const animationScript = ["Our USN:1GV23CS003,28,51,52,54", "Our presentation on Guava Plant", "Plant more trees to help Mother earth"];
+  const animationScript = ["Our USN:1GV23CS003,13,17,21", "Our's presentation on DD⚡CO", "Digital design and computer organization"];
 
   // Typing animation script start
   new Typed(".typing", {
