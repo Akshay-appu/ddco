@@ -220,7 +220,7 @@ section .title::after {
 }
 .skills .title::before,
 .contact .title::before {
-  background: url(img/background gif.gif) no-repeat center;
+  background: #fff;
 }
 
 /* about section styling */
