@@ -38,8 +38,7 @@ $(document).ready(function () {
   // Scroll up Button script end
 
   // animation Script for display
-  const animationScript = ["Our's presentation on DD⚡CO", "Under the Guidance 
-Prof.Preethi S, Dept.CSE", "Digital design and computer organization"];
+  const animationScript = ["Our's presentation on DD⚡CO", "Under the Guidance Prof.Preethi S Dept.CSE", "Digital design and computer organization"];
 
   // Typing animation script start
   new Typed(".typing", {
